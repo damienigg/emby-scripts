@@ -1,0 +1,5 @@
+{
+    "emby_url": "http://your-emby-server:8096",
+    "api_key": "your-emby-api-key",
+    "collection_prefix": "Retro Movies"
+}
