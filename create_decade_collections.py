@@ -94,7 +94,7 @@ def main():
 
     print("Connected.\n")
 
-    for decade_start in range(1930, 2000, 10):
+    for decade_start in range(1900, 2000, 10):
         label = decade_label(decade_start)
         collection_name = label
 
